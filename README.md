@@ -1,5 +1,5 @@
-# AnimalSleepPeriod
-Why different animals have different sleep? What are the factors impact it?
+# Sleep in mammals
+Why different mmmals have different sleep? What are the factors impact it?
 # Introduction
 Different animals have different sleep, and it can be divided into two parts: slow-wave sleep (non-dreaming) and paradoxical sleep (dreaming). the duration of those two periods are also different in each species. Why does it happened? And how ecological and constitutional factors impact on the period? This project analysed the inner and outer factors that might impact the sleep time of the mammals.
 # Background
