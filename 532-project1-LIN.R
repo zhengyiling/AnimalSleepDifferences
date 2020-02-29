@@ -1,5 +1,4 @@
 rm(list = ls())
-#LIN's 532_project 1
 #Sleep in Mammals
 
 sleep<-read.csv(file.choose())
